@@ -1,4 +1,7 @@
 Movies List Viewer 
-[!HomePage](app/src/main/assets/homepage.jpg)
+<br>
+
 <img src="app/src/main/assets/homepage.jpg" alt="Company Logo" width="200"/>
+<img src="app/src/main/assets/descriptionpage.jpg" alt="Company Logo" width="200"/>
+
 
