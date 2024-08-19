@@ -1,2 +1,2 @@
 Movies List Viewer 
-[!HomePage](assests/homepage.jpg)
+[!HomePage](app/src/main/assets/homepage.jpg)
