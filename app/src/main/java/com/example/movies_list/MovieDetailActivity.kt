@@ -19,6 +19,8 @@ class MovieDetailActivity : AppCompatActivity() {
         movie?.let {
             binding.tvMovieTitleDetail.text = it.title
             binding.tvMovieReleaseDateDetail.text = "Release Date: ${it.releaseDate}"
+            binding.tvMovieRatingDetail.text = "${it.imdbRating}"
+            binding.tvMovieDurationDetail.text = "${it.duration}"
             binding.tvMovieCastDetail.text = "Cast: ${it.actors}"
             binding.tvMovieDescriptionDetail.text = it.storyline
 
