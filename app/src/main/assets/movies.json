@@ -1,0 +1,279 @@
+[
+  {
+    "category": "Popular Movies",
+    "movies": [
+      {
+        "title": "Movie 1",
+        "description": "Description of Movie 1",
+        "cast": "Actor 1, Actor 2",
+        "releaseDate": "2022-01-01",
+        "imageUrl": "url_to_image_1"
+      },
+      {
+        "title": "Movie 2",
+        "description": "Description of Movie 2",
+        "cast": "Actor 3, Actor 4",
+        "releaseDate": "2023-01-01",
+        "imageUrl": "url_to_image_2"
+      },
+      {
+        "title": "Movie 3",
+        "description": "Description of Movie 3",
+        "cast": "Actor 5, Actor 6",
+        "releaseDate": "2022-05-01",
+        "imageUrl": "url_to_image_3"
+      },
+      {
+        "title": "Movie 4",
+        "description": "Description of Movie 4",
+        "cast": "Actor 7, Actor 8",
+        "releaseDate": "2021-07-01",
+        "imageUrl": "url_to_image_4"
+      },
+      {
+        "title": "Movie 5",
+        "description": "Description of Movie 5",
+        "cast": "Actor 9, Actor 10",
+        "releaseDate": "2022-09-01",
+        "imageUrl": "url_to_image_5"
+      },
+      {
+        "title": "Movie 6",
+        "description": "Description of Movie 6",
+        "cast": "Actor 11, Actor 12",
+        "releaseDate": "2021-11-01",
+        "imageUrl": "url_to_image_6"
+      },
+      {
+        "title": "Movie 7",
+        "description": "Description of Movie 7",
+        "cast": "Actor 13, Actor 14",
+        "releaseDate": "2020-12-01",
+        "imageUrl": "url_to_image_7"
+      },
+      {
+        "title": "Movie 8",
+        "description": "Description of Movie 8",
+        "cast": "Actor 15, Actor 16",
+        "releaseDate": "2019-08-01",
+        "imageUrl": "url_to_image_8"
+      },
+      {
+        "title": "Movie 9",
+        "description": "Description of Movie 9",
+        "cast": "Actor 17, Actor 18",
+        "releaseDate": "2018-06-01",
+        "imageUrl": "url_to_image_9"
+      },
+      {
+        "title": "Movie 10",
+        "description": "Description of Movie 10",
+        "cast": "Actor 19, Actor 20",
+        "releaseDate": "2023-04-01",
+        "imageUrl": "url_to_image_10"
+      },
+      {
+        "title": "Movie 11",
+        "description": "Description of Movie 11",
+        "cast": "Actor 21, Actor 22",
+        "releaseDate": "2021-02-01",
+        "imageUrl": "url_to_image_11"
+      },
+      {
+        "title": "Movie 12",
+        "description": "Description of Movie 12",
+        "cast": "Actor 23, Actor 24",
+        "releaseDate": "2020-10-01",
+        "imageUrl": "url_to_image_12"
+      },
+      {
+        "title": "Movie 13",
+        "description": "Description of Movie 13",
+        "cast": "Actor 25, Actor 26",
+        "releaseDate": "2019-03-01",
+        "imageUrl": "url_to_image_13"
+      },
+      {
+        "title": "Movie 14",
+        "description": "Description of Movie 14",
+        "cast": "Actor 27, Actor 28",
+        "releaseDate": "2018-12-01",
+        "imageUrl": "url_to_image_14"
+      },
+      {
+        "title": "Movie 15",
+        "description": "Description of Movie 15",
+        "cast": "Actor 29, Actor 30",
+        "releaseDate": "2024-01-01",
+        "imageUrl": "url_to_image_15"
+      }
+    ]
+  },
+  {
+    "category": "Top Rated Movies",
+    "movies": [
+      {
+        "title": "Movie 1",
+        "description": "Description of Movie 1",
+        "cast": "Actor 1, Actor 2",
+        "releaseDate": "2022-01-01",
+        "imageUrl": "url_to_image_1"
+      },
+      {
+        "title": "Movie 2",
+        "description": "Description of Movie 2",
+        "cast": "Actor 3, Actor 4",
+        "releaseDate": "2023-01-01",
+        "imageUrl": "url_to_image_2"
+      },
+      {
+        "title": "Movie 3",
+        "description": "Description of Movie 3",
+        "cast": "Actor 5, Actor 6",
+        "releaseDate": "2022-05-01",
+        "imageUrl": "url_to_image_3"
+      },
+      {
+        "title": "Movie 4",
+        "description": "Description of Movie 4",
+        "cast": "Actor 7, Actor 8",
+        "releaseDate": "2021-07-01",
+        "imageUrl": "url_to_image_4"
+      },
+      {
+        "title": "Movie 5",
+        "description": "Description of Movie 5",
+        "cast": "Actor 9, Actor 10",
+        "releaseDate": "2022-09-01",
+        "imageUrl": "url_to_image_5"
+      },
+      {
+        "title": "Movie 6",
+        "description": "Description of Movie 6",
+        "cast": "Actor 11, Actor 12",
+        "releaseDate": "2021-11-01",
+        "imageUrl": "url_to_image_6"
+      },
+      {
+        "title": "Movie 7",
+        "description": "Description of Movie 7",
+        "cast": "Actor 13, Actor 14",
+        "releaseDate": "2020-12-01",
+        "imageUrl": "url_to_image_7"
+      },
+      {
+        "title": "Movie 8",
+        "description": "Description of Movie 8",
+        "cast": "Actor 15, Actor 16",
+        "releaseDate": "2019-08-01",
+        "imageUrl": "url_to_image_8"
+      },
+      {
+        "title": "Movie 9",
+        "description": "Description of Movie 9",
+        "cast": "Actor 17, Actor 18",
+        "releaseDate": "2018-06-01",
+        "imageUrl": "url_to_image_9"
+      },
+      {
+        "title": "Movie 10",
+        "description": "Description of Movie 10",
+        "cast": "Actor 19, Actor 20",
+        "releaseDate": "2023-04-01",
+        "imageUrl": "url_to_image_10"
+      },
+      {
+        "title": "Movie 11",
+        "description": "Description of Movie 11",
+        "cast": "Actor 21, Actor 22",
+        "releaseDate": "2021-02-01",
+        "imageUrl": "url_to_image_11"
+      },
+      {
+        "title": "Movie 12",
+        "description": "Description of Movie 12",
+        "cast": "Actor 23, Actor 24",
+        "releaseDate": "2020-10-01",
+        "imageUrl": "url_to_image_12"
+      },
+      {
+        "title": "Movie 13",
+        "description": "Description of Movie 13",
+        "cast": "Actor 25, Actor 26",
+        "releaseDate": "2019-03-01",
+        "imageUrl": "url_to_image_13"
+      },
+      {
+        "title": "Movie 14",
+        "description": "Description of Movie 14",
+        "cast": "Actor 27, Actor 28",
+        "releaseDate": "2018-12-01",
+        "imageUrl": "url_to_image_14"
+      },
+      {
+        "title": "Movie 15",
+        "description": "Description of Movie 15",
+        "cast": "Actor 29, Actor 30",
+        "releaseDate": "2024-01-01",
+        "imageUrl": "url_to_image_15"
+      }
+    ]
+  },
+  {
+    "category": "New Releases",
+    "movies": [
+      {
+        "title": "New Release 1",
+        "description": "Description of New Release 1",
+        "cast": "Actor 31, Actor 32",
+        "releaseDate": "2024-08-01",
+        "imageUrl": "url_to_image_16"
+      },
+      {
+        "title": "New Release 2",
+        "description": "Description of New Release 2",
+        "cast": "Actor 33, Actor 34",
+        "releaseDate": "2024-07-01",
+        "imageUrl": "url_to_image_17"
+      }
+    ]
+  },
+  {
+    "category": "Upcoming Movies",
+    "movies": [
+      {
+        "title": "Upcoming Movie 1",
+        "description": "Description of Upcoming Movie 1",
+        "cast": "Actor 35, Actor 36",
+        "releaseDate": "2024-12-01",
+        "imageUrl": "url_to_image_18"
+      },
+      {
+        "title": "Upcoming Movie 2",
+        "description": "Description of Upcoming Movie 2",
+        "cast": "Actor 37, Actor 38",
+        "releaseDate": "2025-01-01",
+        "imageUrl": "url_to_image_19"
+      }
+    ]
+  },
+  {
+    "category": "Classic Movies",
+    "movies": [
+      {
+        "title": "Classic Movie 1",
+        "description": "Description of Classic Movie 1",
+        "cast": "Actor 39, Actor 40",
+        "releaseDate": "1990-01-01",
+        "imageUrl": "url_to_image_20"
+      },
+      {
+        "title": "Classic Movie 2",
+        "description": "Description of Classic Movie 2",
+        "cast": "Actor 41, Actor 42",
+        "releaseDate": "1985-06-01",
+        "imageUrl": "url_to_image_21"
+      }
+    ]
+  }
+]
